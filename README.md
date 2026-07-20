@@ -1,2 +1,2 @@
 # Python_Program
-Python program solve world problem
+pandas and numpy program helpful for learing basic to advance 
