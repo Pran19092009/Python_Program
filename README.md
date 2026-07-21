@@ -1,18 +1,30 @@
-# File handling and numpy 
+# 1. File handling 
 
 The Student Record Management System is a simple Python mini project that demonstrates the use of file handling to store and manage student information. The project allows users to add, view, search, update, and delete student records without using a database. All data is stored in a text file (students.txt), making the project lightweight and easy to understand.
 
-FEATURES
+## Highlights (File Handling Project)
+Add student records.
+View and search records.
+Update student marks.
+Delete student records.
+Sort records by marks.
+Display students scoring above 75.
+Export top 3 students.
+Create data backup.
+Count students by marks.
+Menu-driven student record system.
 
-Add student records
+# 2. Numpy 
 
-View all records
+This project contains Python programs for student marks analysis using NumPy and the Statistics module. It includes generating marks for 50 students, calculating total, average, highest and lowest marks, counting students based on score ranges, assigning grades, displaying top and bottom performers, finding median and standard deviation, creating a 5-subject marks matrix, identifying subject toppers, and generating a complete report card with total, average, percentage, and grade.
 
-Search by roll number
-
-Update student marks
-
-Delete student records
-
-
-This project is a simple Student Record Management System developed in Python using file handling. It allows users to add, view, search, update, and delete student records stored in a text file. The system also provides features to sort students by marks, display students scoring above 75, export the top 3 performers, create a backup of records, count students based on marks, and operate through a menu-driven interface.
+## Highlights (Numpy project)
+Generate student marks.
+Calculate total, average, highest, and lowest marks.
+Count students by score range.
+Assign grades.
+Display top and bottom performers.
+Find median and standard deviation.
+Analyze 5-subject marks.
+Identify subject toppers.
+Generate student report cards.
