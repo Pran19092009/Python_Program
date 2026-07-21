@@ -14,12 +14,5 @@ Update student marks
 
 Delete student records
 
-Sort students by marks
 
-Display students with marks above 75
-
-Export the top 3 students
-
-Create a backup of records
-
-Count students scoring above 90 and below 35
+This project is a simple Student Record Management System developed in Python using file handling. It allows users to add, view, search, update, and delete student records stored in a text file. The system also provides features to sort students by marks, display students scoring above 75, export the top 3 performers, create a backup of records, count students based on marks, and operate through a menu-driven interface.
